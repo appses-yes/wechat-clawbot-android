@@ -1,6 +1,5 @@
 # wechat-clawbot-android
 基于 Termux 的安卓本地微信 AI 机器人，无需电脑，支持永久记忆、本地模型，可在 8GB 低配手机上运行
-📄 第一部分：仓库简介（填在 GitHub 的 Description 框里）
 
 ```text
 基于 Termux 的安卓本地微信 AI 机器人，无需电脑、无需服务器，支持永久记忆、本地大模型，可在 8GB 低配手机上运行。
